@@ -14,3 +14,7 @@ First release.
 - `createDohResolver()` for edge runtimes and `nodeResolver()` (from `crawlerid/node`), with a safeguard against environments where DNS is broken.
 - `robotsTxt()`: robots.txt groups by category or crawler.
 - CLI: `identify`, `verify`, `logs`, `robots`, `list`.
+
+## 0.1.1
+
+- Updated development dependencies and GitHub Actions (no change to the library's code).
