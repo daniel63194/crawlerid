@@ -19,11 +19,11 @@
     "seo",
     "edge"
   ],
-  "homepage": "https://github.com/crawlerid/crawlerid#readme",
-  "bugs": "https://github.com/crawlerid/crawlerid/issues",
+  "homepage": "https://github.com/daniel63194/crawlerid#readme",
+  "bugs": "https://github.com/daniel63194/crawlerid/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crawlerid/crawlerid.git"
+    "url": "git+https://github.com/daniel63194/crawlerid.git"
   },
   "license": "MIT",
   "author": "Daniel Eremeev (https://danieleremeev.dev)",

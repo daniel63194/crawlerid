@@ -4,7 +4,7 @@ crawlerid is often used to make allow/deny decisions, so correctness bugs can be
 
 ## Reporting a vulnerability
 
-Please **do not open a public issue**. Report it privately through [GitHub Security Advisories](https://github.com/crawlerid/crawlerid/security/advisories/new).
+Please **do not open a public issue**. Report it privately through [GitHub Security Advisories](https://github.com/daniel63194/crawlerid/security/advisories/new).
 
 You can expect an acknowledgement within 3 working days and a plan within 10. Fixes are released as soon as they are ready, with credit to you unless you prefer otherwise.
 

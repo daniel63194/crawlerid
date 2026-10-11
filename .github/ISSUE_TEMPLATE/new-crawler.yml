@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thanks! Every entry must come from the **operator's own documentation**. Third-party bot lists can point you to it, but they are not a source.
-        Prefer to open a pull request? Edit `data/crawlers.json`. [CONTRIBUTING.md](https://github.com/crawlerid/crawlerid/blob/main/CONTRIBUTING.md#adding-a-crawler) walks you through it.
+        Prefer to open a pull request? Edit `data/crawlers.json`. [CONTRIBUTING.md](https://github.com/daniel63194/crawlerid/blob/main/CONTRIBUTING.md#adding-a-crawler) walks you through it.
   - type: input
     id: name
     attributes:

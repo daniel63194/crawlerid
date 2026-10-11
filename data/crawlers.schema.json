@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/crawlerid/crawlerid/blob/main/data/crawlers.schema.json",
+  "$id": "https://github.com/daniel63194/crawlerid/blob/main/data/crawlers.schema.json",
   "title": "crawlerid registry",
   "description": "Known web crawlers and AI agents, sourced from their operators' official documentation.",
   "type": "object",

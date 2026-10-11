@@ -7,7 +7,7 @@ Thanks for helping! Most contributions are small data updates, and those are jus
 You need Node.js 22 or newer.
 
 ```sh
-git clone https://github.com/crawlerid/crawlerid.git
+git clone https://github.com/daniel63194/crawlerid.git
 cd crawlerid
 npm install
 npm test
@@ -75,7 +75,7 @@ npm test
 
 ## Good first issues
 
-Issues labelled [`good first issue`](https://github.com/crawlerid/crawlerid/labels/good%20first%20issue) are scoped to an afternoon and come with pointers. Comment on one to claim it.
+Issues labelled [`good first issue`](https://github.com/daniel63194/crawlerid/labels/good%20first%20issue) are scoped to an afternoon and come with pointers. Comment on one to claim it.
 
 ## Releases (maintainers)
 
