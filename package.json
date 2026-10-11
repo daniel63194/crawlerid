@@ -1,6 +1,6 @@
 {
   "name": "crawlerid",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Identify and verify web crawlers and AI agents (GPTBot, ClaudeBot, Googlebot, PerplexityBot…) against their operators' official IP ranges and reverse DNS. Zero dependencies, edge-ready.",
   "keywords": [
     "crawler",
